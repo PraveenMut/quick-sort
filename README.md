@@ -1,4 +1,4 @@
-### Quicksort Algorithm written in Python
+# Quicksort Algorithm written in Python
 
 # Summary
 Built a standard quicksort algorithm entirely from scratch.
